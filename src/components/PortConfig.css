@@ -1,0 +1,53 @@
+  .input-group {
+    margin-bottom: 10px;
+  }
+  
+  .input-group label {
+    margin-right: 10px;
+  }
+  
+  .input-group input {
+    padding: 5px;
+    font-size: 1rem;
+  }
+
+  .port-config-button {
+    margin-right: 5px;
+  }
+
+.gcl-entry {
+  border: 1px solid #ccc; 
+  padding: 10px;
+  margin-bottom: 15px; 
+  border-radius: 5px; 
+  background-color: #f9f9f9; 
+}
+
+.gate-states label {
+  margin-right: 20px; 
+}
+
+.gate-states input[type="checkbox"] {
+  margin-right: 10px; 
+  margin-left: 10px; 
+  margin-top: 5px; 
+}
+  
+.input-grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 150px);
+  grid-gap: 8px;
+  
+}
+
+.port-config-container {
+  margin-left: 10px;
+}
+
+.error {
+  color: red;
+  margin-top: 5px;    
+  font-size: 1.2rem;    
+  font-weight: bold;    
+  padding-left: 3px;
+}

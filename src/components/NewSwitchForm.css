@@ -1,0 +1,43 @@
+  .input-group {
+    margin-bottom: 10px;
+  }
+  
+  .input-group label {
+    margin-right: 10px;
+  }
+  
+  .input-group input {
+    padding: 5px;
+    font-size: 1rem;
+  }
+
+.switch-info-container {
+  display: flex;
+  flex-direction: column; 
+  width: 100%; 
+  max-width: 500px; 
+  padding: 1rem;
+  border-radius: 8px; 
+  background: #ffffff;
+}
+
+.switch-form-button-group {
+  display: flex;          
+  justify-content: center; 
+  gap: 5px;             
+  margin-top: 10px;
+}
+
+.switch-form-button {
+  margin-right: 10px;
+}
+
+
+.error {
+  color: red;          
+  margin-top: 5px;     
+  font-size: 1.2rem;    
+  font-weight: bold;    
+  padding-left: 3px;
+}
+

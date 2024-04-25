@@ -1,0 +1,10 @@
+.deleteButton {
+  background-color: red;
+  color: white;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.switch-component-button {
+  margin-right: 5px;
+}

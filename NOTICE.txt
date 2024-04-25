@@ -1,0 +1,6 @@
+Dependencies used in the webcnc_frontend project:
+
+axios (MIT License)
+Bootstrap (MIT License)
+React (MIT License)
+react-force-graph (MIT License)
