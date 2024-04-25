@@ -151,4 +151,4 @@ To access the WebCNC webapp, just open the website that you have previously set 
 As a Single Page Application, the WebCNC will not work if your browser has JavaScript disabled.
 It is also required to allow browser alerts and confirmation windows for some of the WebCNC's functionality.
 
-The WebCNC has been tested using Google Chrome, but it should work with any browser.
+The WebCNC has been tested using Google Chrome, but it should work with any modern browser.
