@@ -149,6 +149,6 @@ sudo systemctl restart nginx
 To access the WebCNC webapp, just open the website that you have previously set up using a web browser of your choice. Being a GUI, using the frontend should be intuitive.
 
 As a Single Page Application, the WebCNC will not work if your browser has JavaScript disabled.
-It is also required to allow browser alerts and confirmation windows for some of the WebCNC's functionality.
+It is also required to allow browser alerts and confirmation prompts for some of the WebCNC's functionality.
 
 The WebCNC has been tested using Google Chrome, but it should work with any modern browser.
