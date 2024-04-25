@@ -5,7 +5,9 @@ This software is released under the MIT License.
 It has been developed as part of a bachelor thesis at the University of Stuttgart.
 
 The WebCNC can be used to manually configure IEEE 802.1Qbv compliant switches that support SNMPv3 through a web application. 
+
 This project is the frontend, the webcnc backend project is also required to use the WebCNC.
+
 I recommend setting up the backend before the frontend.
 
 ### Prerequisites:
@@ -144,5 +146,6 @@ sudo systemctl restart nginx
 ### Accessing the WebCNC web application
 
 To access the WebCNC webapp, just open the website that you have previously set up using a web browser of your choice. Being a GUI, using the frontend should be intuitive.
+
 As a Single Page Application, the WebCNC will not work if your browser has JavaScript disabled.
 It is also required to allow browser alerts and confirmation windows for some of the WebCNC's functionality.
