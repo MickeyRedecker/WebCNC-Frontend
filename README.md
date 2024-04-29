@@ -137,7 +137,7 @@ sudo rm /etc/nginx/sites-enabled/default
 sudo nginx -t
 ```
 
-- restart nginx:
+- if no problems are reported, restart nginx:
 ```
 sudo systemctl restart nginx
 ```
